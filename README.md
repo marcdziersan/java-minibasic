@@ -6,7 +6,7 @@ Ideal für das Schreiben und Ausführen kleiner, zeilennummerierter BASIC-Progra
 wie `10 PRINT "HELLO"`.
 
 > **Status:** stabiler, bewusst kleiner Kern. Perfekt zum Lernen/Erweitern  
-> **Lizenz:** MIT (kann im Projekt gerne angepasst werden)
+> **Lizenz:** MIT
 
 ---
 
